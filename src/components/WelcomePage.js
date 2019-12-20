@@ -22,8 +22,11 @@ export default function WelcomePage() {
           alt="rick"
         />
         <Contain>
-        <Link exact to="/characters">Character List</Link>
+          <Link exact to="/characters">Character List</Link>
         </Contain>
+        {/* <Contain>
+          <Link exact to="/locations">Location List</Link>
+        </Contain> */}
       </header>
     </section>
   );
