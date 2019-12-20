@@ -28,7 +28,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ]  Explain benefit(s) using `client-side routing`?
 
 > Answer:
-
+the route is handled internally by the JavaScript that is loaded on the page. So that when user clicks on a link, the URL changes but the request to the server is prevented. This means less data is processed, because routing betwing sites its faster(in other words, smoother transitions and animations)
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
